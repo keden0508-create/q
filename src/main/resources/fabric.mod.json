@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "armorhud",
+  "version": "${version}",
+  "name": "Armor HUD",
+  "description": "착용 중인 갑옷과 손에 든 아이템의 내구도, 폭죽/불사의 토템 개수를 HUD로 보여줍니다. Tab(누르는 동안): 상세정보, V: HUD 숨김/표시.",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.armorhud.ArmorHudClient"],
+    "modmenu": ["com.example.armorhud.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": ">=0.161.0",
+    "minecraft": "~26.3"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

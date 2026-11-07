@@ -1,0 +1,13 @@
+{
+  "key.category.armorhud.main": "Armor HUD",
+  "key.armorhud.detail": "상세정보 (누르는 동안 표시)",
+  "key.armorhud.hide": "HUD 숨기기/표시",
+  "armorhud.config.title": "Armor HUD 설정",
+  "armorhud.config.show_armor": "갑옷 표시",
+  "armorhud.config.show_hands": "손에 든 아이템 표시",
+  "armorhud.config.show_fireworks": "폭죽 개수 표시",
+  "armorhud.config.show_totems": "불사의 토템 개수 표시",
+  "armorhud.config.side": "HUD 위치",
+  "armorhud.config.left": "왼쪽",
+  "armorhud.config.right": "오른쪽"
+}

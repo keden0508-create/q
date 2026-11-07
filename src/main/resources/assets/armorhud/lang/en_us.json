@@ -1,0 +1,13 @@
+{
+  "key.category.armorhud.main": "Armor HUD",
+  "key.armorhud.detail": "Show Details (hold)",
+  "key.armorhud.hide": "Toggle HUD",
+  "armorhud.config.title": "Armor HUD Settings",
+  "armorhud.config.show_armor": "Show Armor",
+  "armorhud.config.show_hands": "Show Held Items",
+  "armorhud.config.show_fireworks": "Show Firework Count",
+  "armorhud.config.show_totems": "Show Totem Count",
+  "armorhud.config.side": "HUD Position",
+  "armorhud.config.left": "Left",
+  "armorhud.config.right": "Right"
+}
