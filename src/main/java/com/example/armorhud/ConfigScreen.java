@@ -56,6 +56,6 @@ public class ConfigScreen extends Screen {
     @Override
     public void onClose() {
         ArmorHudConfig.save();
-        this.minecraft.setScreen(parent);
+        this.minecraft.gui.setScreen(parent);
     }
 }
